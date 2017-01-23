@@ -4,8 +4,8 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"mplayer/mlib"
-	"mplayer/mp"
+	"github.com/ahnufy/mplayer/mlib"
+	"github.com/ahnufy/mplayer/mp"
 	"os"
 	"strconv"
 	"strings"
